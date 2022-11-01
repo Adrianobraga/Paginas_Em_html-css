@@ -1,0 +1,33 @@
+header{
+    background-color: aqua;
+    height: 100px;
+    width: 100%;
+    font:bold 50px arial;
+}
+menu{
+    background-color:lightgreen;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+}
+nav{
+    background-color: lightblue;
+    width: 150px;
+    height:1000px;
+
+}
+content{
+    background-color: red;
+    color: white;
+    width: 93%;
+    height: 1000px;
+    float: right;
+    
+    
+}
+footer{
+    background-color: brown;
+    text-align: center;
+    height: 200px;
+
+}
